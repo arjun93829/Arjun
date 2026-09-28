@@ -1,0 +1,6 @@
+{
+  "name": "MedRoute AI - Emergency Patient Routing",
+  "description": "Decision-support prototype matching emergency care requirements with nearby hospital capabilities, bed availability, and travel time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
